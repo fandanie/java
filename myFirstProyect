@@ -1,0 +1,21 @@
+package com.example.demo;
+
+public class myFirstProyect {
+
+    public static void main(String[] args) {
+
+        int age = 30;
+        double height = 170.5;
+        boolean handsome = true;
+        String study = "Daniel is studying programing";
+
+        System.out.println(study + ", he is " + age + ", he is " + height
+        + " centimeter of height.");
+
+
+
+
+
+
+    }
+}
